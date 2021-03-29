@@ -1,2 +1,2 @@
-# SouzaBOT
-My twitch bot
+# BotDoSouza
+My Twitch Stream Bot
